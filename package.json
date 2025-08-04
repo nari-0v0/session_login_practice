@@ -1,7 +1,7 @@
 {
   "name": "session",
   "version": "1.0.0",
-  "description": "",
+  "description": "### 주제 : Session으로 유저정보 관리하기",
   "main": "login.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,9 +11,17 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cookie-parser": "^1.4.6",
+    "cookie-parser": "^1.4.7",
     "cors": "^2.8.5",
-    "express": "^4.19.2",
+    "express": "^4.21.2",
     "express-session": "^1.18.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nari-0v0/session_login_practice.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nari-0v0/session_login_practice/issues"
+  },
+  "homepage": "https://github.com/nari-0v0/session_login_practice#readme"
 }
